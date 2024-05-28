@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84a08361-7bbc-4d14-bf3a-a5cd39b1ba52" name="Changes" comment="" />
+    <list default="true" id="84a08361-7bbc-4d14-bf3a-a5cd39b1ba52" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +28,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "Chemistry",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/81LL001HRU/python/pythonProject/.venv"
+    "last_opened_file_path": "C:/Users/81LL001HRU/python/test1"
   }
 }]]></component>
   <component name="SharedIndexes">
